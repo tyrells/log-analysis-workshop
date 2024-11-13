@@ -1,7 +1,7 @@
-pandas
-jupyterlab
-pyarrow
-duckdb
-jupysql
-matplotlib
-duckdb-engine
+pandas>=2.2.3
+jupyterlab>=4.3.0
+pyarrow>=18.0.0
+duckdb>=1.1.3
+jupysql>=0.10.16
+matplotlib>=3.9.2
+duckdb-engine>=0.13.5
